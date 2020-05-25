@@ -1,3 +1,4 @@
+
 import os
 from setuptools import setup, find_packages
 
@@ -49,5 +50,3 @@ setup(
           'console_scripts': ['onvif-cli = onvif.cli:main']
           }
      )
-
-

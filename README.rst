@@ -1,3 +1,14 @@
+This project is based on the project of : Quatanium Technology Co
+
+https://github.com/quatanium/python-onvif
+
+
+To make it works I use :
+
+- pip install onvif
+- ovifconfig.py ( who centralize the information for a camera Instanciation and methods that we will use )
+- control_camera.py ( the main program which will tell to the camera what she has to do )
+
 python-onvif
 ============
 
